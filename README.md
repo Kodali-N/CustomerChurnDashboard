@@ -1,5 +1,5 @@
 
-# Telecom Customer Churn Dasboard(PowerBI)
+# Telecom Customer Churn Dashboard(PowerBI)
 Using Telecom customer churn data,
  I created a dashboard which gives a visual 
  insight about the churners' profile.
