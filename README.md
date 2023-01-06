@@ -36,4 +36,4 @@ created to group customers based on their tenure period.
 - This dashboard helps one analyze
     the profile of the churner in comparision
     to total customers.
-![Dashboard](https://www.icloud.com/sharedalbum/#B0rJtdOXmKH996l)
+![Dashboard](https://user-images.githubusercontent.com/86663030/210976187-aff5fab3-d026-404d-a4e9-c6a7e56f1390.png)
