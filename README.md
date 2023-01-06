@@ -6,8 +6,6 @@ Using Telecom customer churn data,
  
 
 
-
-
 ### Data Cleaning:
 By reading the dataset into dataframe
 using pandas, I removed the records with 
@@ -38,4 +36,4 @@ created to group customers based on their tenure period.
 - This dashboard helps one analyze
     the profile of the churner in comparision
     to total customers.
-![alt tag](https://www.icloud.com/sharedalbum/#B0rJtdOXmKH996l "Dashboard")
+![Dashboard](https://www.icloud.com/sharedalbum/#B0rJtdOXmKH996l)
