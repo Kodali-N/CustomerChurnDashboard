@@ -1,8 +1,11 @@
 
 # Telecom Customer Churn Dashboard(PowerBI)
+
+### Overview:
 Using Telecom customer churn data,
  I created a dashboard which gives a visual 
- insight about the churners' profile.
+ insight about the churners' profile. The dashboard provides information about how tenure, Internet services availed 
+ by the customers, the contract type and other such factors are linked to Churn
  
 
 
