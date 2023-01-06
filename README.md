@@ -36,6 +36,6 @@ created to group customers based on their tenure period.
 ### Dasboard:
 - tool used: Power BI
 - This dashboard helps one analyze
-    the profile of the churner in. comparision
+    the profile of the churner in comparision
     to total customers.
-![Dashboard]('https://www.icloud.com/sharedalbum/#B0rJtdOXmKH996l')
+![alt tag](https://www.icloud.com/sharedalbum/#B0rJtdOXmKH996l "Dashboard")
