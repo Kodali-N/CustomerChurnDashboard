@@ -11,7 +11,7 @@ By reading the dataset into dataframe
 using pandas, I removed the records with 
 missing values, which addded upto only 0.15%
 of the total data. I further removed columns
-such as Customer ID and tenure. Before remving
+such as Customer ID and tenure. Before removing
 the tenure column, new colum:'Tenure Bins' was 
 created to group customers based on their tenure period.
 
@@ -26,7 +26,7 @@ created to group customers based on their tenure period.
     with churn, we could observe that High churn was observed in case of
     monthly contracts, those who avail no tech support, in the first year
     of subscription and those who opted for Fibre Optic internet.
-- Low churn was observed in case of lon tern conrtacts, 
+- Low churn was observed in case of long term contracts, 
     those customers who are engaged with the service for more than 5 years.
 - Factors like gender, availability of phone services, and 
     number of multiple line had nearly 0 impact on the churn.
