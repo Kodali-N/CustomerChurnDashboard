@@ -23,6 +23,10 @@ created to group customers based on their tenure period.
 - Upon plotting the relation between Monthly charges, Total charges,and tenure, with Churn, we could observe that: 
     Low tenure, High monthly charges, and low Total charges are linked
     to High Churn.
+<img src="https://user-images.githubusercontent.com/86663030/212529266-68900f29-203c-4cbf-82f2-3ca68e3d6101.png" width="450" height="350">
+<img src="https://user-images.githubusercontent.com/86663030/212529262-0e9dfc8d-4530-42ba-a0e0-96017b2c4872.png" width="450" height="350">
+<img src="https://user-images.githubusercontent.com/86663030/212529447-9319ae72-4638-4bf9-a789-c432192371fe.jpeg" width="450" height="350">
+
 - When a correlation was built between all the predictors
     with churn, we could observe that High churn was observed in case of
     monthly contracts, those who avail no tech support, in the first year
